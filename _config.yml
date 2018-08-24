@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+title: Pavel Dimens - Marine Ecologist
+description: A catch-all of work-related and play-related projects
+keywords: genomics,coding,marine,science,ecology,genetics,pavel,dimens
 baseurl:  /newsite # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://pdimens.github.io/newsite/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -12,15 +12,15 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  first_name: Pavel  # Be used at index page about me section.
+  last_name: Dimens  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
-  linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  github_username: pdimens  # Leave blank if you don't have now
+  linkedin_id: # Leave blank if you don't have now
+  facebook_username: # Leave blank if you don't have now
+  twitter_username: pvdimens  # Leave blank if you don't have now
+  email: pavel.dimens@usm.edu  # Leave blank if you don't have now
+  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -28,16 +28,18 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: My family immigrated to the U.S. at the age of 2 from Belarus, and growing up through the New York City public school system I wanted to be [in this chronological order] a paleontologist, a garbage man, a veterinarian, a chef, a veterinarian again, and finally a marine biologist. I'm technically a marine ecologist now, but younger-me probably couldn't appreciate that nuance. I study long term migratory fish behavior by comparing their genomes and hypothesizing what forces are driving population subdivision. It's pretty fascinating stuff, but the life histories of migratory marine fishes can really complicate the analytical part of this work, which only makes it that much more interesting (and frustrating)!
+
+When I'm not trapped in my office chair and monologue-ing about how amazing Linux is (just try it!!), I like to spend time with my dog, hike, swim, hunt and be involved in some kind of creative project, from writing music, to building furniture, graphic designing, tweaking stuff on my Raspberry Pi, etc. Seriously, just try Linux.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: pdimens
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+#  id: UA-93473370-3
 
 ## google optimize
 go:
