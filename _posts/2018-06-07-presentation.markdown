@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Effective Presentation Skills"
-img: presentation_cactus.png
+img: /static/assets/img/blog/presentations/presentation_cactus.png
 date:   2018-06-07 00:00:00 +0200
-description: A lot of science happens behind closed doors, in sometimes cold and/or dark spaces. When you do see the light of day and have to communicate your research to the greater community (scientific or otherwise), you should be able to do so effectively. 
+description: 
 ---
 
 A lot of science happens behind closed doors, in sometimes cold and/or dark spaces. When you do see the light of day and have to communicate your research to the greater community (scientific or otherwise), you should be able to do so effectively. 
@@ -23,7 +23,7 @@ Seems obvious, right? Well, let's first explore what that means. Thinking you do
 <li>everyone isn't hoping someone pulls a fire alarm or calls in a bomb threat just so they can be freed from the torture they eagerly and foolishly walked into a few minutes prior</li>
 </ul>
 
-​
+
 <h3>Pretty simple, I think. But, how we do we do that?</h3>
 
 <p>I'm so glad you asked! After seeing many presentations in many different styles, I've settled on a style that works best for me. The way I present is an amalgam of things I liked from other presentations and improvements on (or avoidance of) things that I hated (I have strong opinions).</p>

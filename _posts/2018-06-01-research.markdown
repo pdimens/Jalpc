@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Research"
-img: /technical/SNP3.png
-date:   2018-06-01 00:00:00 +0200
-description: Broadly speaking, I study the movement of marine species over evolutionary time. My current has focused on highly migratory species (sharks, tunas), but marine systems are tricky and there's all sorts of interesting things to uncover!
----
