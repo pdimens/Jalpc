@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Population Genetics
-  i18n: jalpc
+  i18n: 
   url: 
   img: /static/assets/img/landing/dna.png
   desc: Population structure of a highly migratory coastal shark
@@ -15,7 +15,7 @@
   desc: Custom code for genomics applications
 
 - name: Graphic Design
-  i18n: cpython
-  url: 
+  i18n: 
+  url: https://www.behance.net/pdimens5cb2
   img: /static/assets/img/landing/terminal_cactus.png
   desc: A medley of graphics made for science and for fun
