@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Common Sense, Bash, Sarcasm, Python3, R, Julia, Graphics, Hair Metal
-percentage: 40, 70, 100, 20, 50, 20, 70, 90
+aspects: Common Sense, Bash, Sarcasm, Python3, Anxiety, R, Julia, Graphics, Hair Metal
+percentage: 40, 70, 100, 30, 70, 50, 20, 70, 90
