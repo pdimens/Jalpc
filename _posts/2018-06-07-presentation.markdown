@@ -9,40 +9,26 @@ description:
 
 A lot of science happens behind closed doors, in sometimes cold and/or dark spaces. When you do see the light of day and have to communicate your research to the greater community (scientific or otherwise), you should be able to do so effectively. 
 
-<h3>effectively?</h3>
+**effectively?**
 
 Seems obvious, right? Well, let's first explore what that means. Thinking you do a good or good enough job is great (and I admire the confidence!), but your idea of "good" and your audience's reception of your presentation can be quite different. So, let's take a step back and outline the goals of "effectively" so we know what boxes to check off when we build and ultimately give these presentations. 
 
-<h2>Effective Presentation</h2>
-<ul>
-<li>everyone understands why you're doing the work</li>
-
-<li>everyone understands the basics or specifics of the work you're doing</li>
-
-<li>everyone is able to follow along with you throughout the entire presentation</li>
-
-<li>everyone isn't hoping someone pulls a fire alarm or calls in a bomb threat just so they can be freed from the torture they eagerly and foolishly walked into a few minutes prior</li>
-</ul>
 
 
-<h3>Pretty simple, I think. But, how we do we do that?</h3>
+## Effective Presentation
 
-<p>I'm so glad you asked! After seeing many presentations in many different styles, I've settled on a style that works best for me. The way I present is an amalgam of things I liked from other presentations and improvements on (or avoidance of) things that I hated (I have strong opinions).</p>
+- everyone understands why you're doing the work
 
-<p> The advice I give here, like all things, is subjective. Some folks think the dress is blue and black, others think it's white and gold. That's just the world we live in. Moving on: 
-how do we do that?</p>
+- everyone understands the basics or specifics of the work you're doing
 
-<h2>Part 1: appeal to the lowest common denominator</h2>
+- everyone is able to follow along with you throughout the entire presentation
 
-<p>In a nut shell, that's pretty much it. That's my short-hand way of saying "explain everything in the most basic ways possible" which in and of itself is a polite way of saying "don't wave around your smarts because of your insecurities." Let that sink in for a moment and we'll unpack what that means.</p>
+- everyone isn't hoping someone pulls a fire alarm or calls in a bomb threat just so they can be freed from the torture they eagerly and foolishly walked into a few minutes prior
 
-<h3>1. Explain everything in the most basic ways possible</h3>
 
-<p>Scenario: you find yourself in a room full of researchers, there are people in the audience who you cite regularly, there are those who you look up to as role models or institutional "rock stars." Your audience ranges from undergraduates to the silverest of foxes enjoying their days as emeritus faculty. At no point should you assume everyone in the room is fully versed in all the stuff you're talking about. And no, by discussing the fundamentals of your work are you are not insulting anyone in the room.</p>
+**Pretty simple, I think. But, how we do we do that?**
 
-<p>Your audience won't be just people who do the exact work you do, sometimes folks are curious, or your work is interdisciplinary and your audience has people from those disciplines. Be generous to the audience you may attract and present your work to them humbly. As an example, my work is essentially studying historical movement of highly migratory fishes and I use genetics as the tool to do so. When presenting, I have to discuss the fact I use specific genetic tools, a whole slew of wacky statistical and computational tools, I have to give basic information about the species, but I also have to make inferences that cover ecology/geology/oceanography later on. That's a lot of stuff, and it's entirely impractical for me to assume everyone already has exposure to all of these things to be able to follow along effectively. So, just give people a break and spend 15 seconds explaining the absolute basics of what a Monte Carlo Chain Markov is, or what the hell leptocephalus larvae are. Don't assume. Your audience will be thankful for it.</p>
-​
-<h3>2. Don't wave around your smarts because of your insecurities</h3>
+## 2 Don't wave around your smarts because of your insecurities
 
 <p>This one sounds way more personal, doesn't it? Well, it is. Like I said before, you will have a mixed bag of people seeing your presentations, and you need not be intimidated by anyone there! Do a bit of reflection and think about how jargon-heavy your presentations are. At conferences, you are surrounded by future job competition, potential employers, collaborators, etc., so the motivation for being at your "most marketable" is there. But, you're human. Be human. Waving around fancy terms and leaving everyone in the dark is alienating to your audience. If you're an intelligent person, that will come across a lot better when you casually explain the gist of Coalescent Theory within 15 seconds to a room full of people. When was the last time you were truly impressed by a person speaking in fancy jargon and you just blankly nodding?</p>
 
