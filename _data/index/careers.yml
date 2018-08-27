@@ -26,4 +26,47 @@
   job:
     detail: M.S. Student
     i18n: company_b_job
+  icon: fa-search
+
+- name:
+    detail: Dauphin Island Sea Laboratory
+    i18n: company_b
+  desc:
+    detail: Examine phosphate sediment spikes in sediment near oil refinery and phosphate plant
+    i18n: company_b_desc
+  date:
+    detail: May. 2014
+    i18n: company_b_date
+  job:
+    detail: Technician
+    i18n: company_b_job
   icon: fa-flask
+  
+  - name:
+    detail: Eurasia Foundation Social Expertise Exchange
+    i18n: company_b
+  desc:
+    detail: Collaboration with WWF, Yellowstone NP, Baikalsky, and Barguzinsky Zapovedniks in the Buryatia Republic, Russia spotlighting both systems between the two countries
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2014
+    i18n: company_b_date
+  job:
+    detail: Fellow
+    i18n: company_b_job
+  icon: fa-globe-asia
+  
+    - name:
+    detail: Dauphin Island Sea Laboratory
+    i18n: company_b
+  desc:
+    detail: Fisheries Ecology Laboratory -oyster settlement and coastal fisheries ecology 
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2012
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: company_b_job
+  icon: fa-fish
+  
