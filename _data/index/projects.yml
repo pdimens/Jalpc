@@ -1,27 +1,21 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Shark Pop-Gen
+- name: Population Genetics
   i18n: jalpc
   url: 
-  img: /static/assets/img/landing/bash.png
+  img: /static/assets/img/landing/dna.png
   desc: Population structure of a highly migratory coastal shark
 
-- name: Tuna Pop-Gen
+- name: Graphic Design
   i18n: cpython
   url: 
-  img: /static/assets/img/landing/julia.png
+  img: /static/assets/img/landing/lionfish.png
   desc: Population structure and sympatric evolution of two Atlantic tuna species
-
-- name: Spiny Lobster Pop-Demography
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/python.png
-  desc: Assessing population demography of the spiny lobster in Barbuda
 
 - name: Scripts
   i18n: google
   gh_user: pdimens
-  repo: genomics-toolbox
+  repo: genomic-toolbox
   img: /static/assets/img/landing/bash.png
   desc: Custom code for genomics applications
