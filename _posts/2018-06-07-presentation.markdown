@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Effective Presentation Skills"
-img: /static/assets/img/blog/presentations/presentation_cactus.png
 date:   2018-06-07 00:00:00 +0200
 description: 
 ---
+
+![presentation cactus](/static/assets/img/blog/presentations/presentation cactus.png)
 
 A lot of science happens behind closed doors, in sometimes cold and/or dark spaces. When you do see the light of day and have to communicate your research to the greater community (scientific or otherwise), you should be able to do so effectively. 
 
