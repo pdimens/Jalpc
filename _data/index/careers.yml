@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: University of Southern Mississippi
     i18n: company_a
-  desc:
-    detail: I worked at Company A ...
+  desc: 
+    detail: Population genomics of highly migratory fish species in the Atlantic Ocean. Advisor: Dr. Eric Saillant
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jan. 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Ph.D. Student
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-align-center
 
 - name:
-    detail: Company B
+    detail: Texas A&M University - Corpus Christi
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Population genetics of a highly migratory coastal shark across crypitc barriers
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Sep. 2014
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: M.S. Student
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-flask
