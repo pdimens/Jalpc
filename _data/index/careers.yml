@@ -28,7 +28,6 @@
     i18n: company_b_job
   icon: fa-search
 
-
 - name:
     detail: Dauphin Island Sea Laboratory
     i18n: company_b
@@ -43,7 +42,7 @@
     i18n: company_b_job
   icon: fa-flask
   
-  - name:
+- name:
     detail: Eurasia Foundation Social Expertise Exchange
     i18n: company_c
   desc:
@@ -57,7 +56,7 @@
     i18n: company_c_job
   icon: fa-globe-asia
   
-    - name:
+- name:
     detail: Dauphin Island Sea Laboratorya
     i18n: company_d
   desc:
@@ -70,4 +69,3 @@
     detail: Intern
     i18n: company_d_job
   icon: fa-fish
-  
