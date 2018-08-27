@@ -4,7 +4,7 @@
     detail: University of Southern Mississippi
     i18n: company_a
   desc: 
-    detail: Population genomics of highly migratory fish species in the Atlantic Ocean. Advisor: Dr. Eric Saillant
+    detail: Population genomics of highly migratory fish species in the Atlantic Ocean advisor Dr Eric Saillant
     i18n: company_a_desc
   date:
     detail: Jan. 2016
@@ -18,7 +18,7 @@
     detail: Texas A&M University - Corpus Christi
     i18n: company_b
   desc:
-    detail: Population genetics of a highly migratory coastal shark across crypitc barriers
+    detail: Population genetics of a highly migratory coastal shark across crypitc barriers advisor Dr David Portnoy
     i18n: company_b_desc
   date:
     detail: Sep. 2014
