@@ -7,15 +7,15 @@
   img: /static/assets/img/landing/dna.png
   desc: Population structure of a highly migratory coastal shark
 
-- name: Graphic Design
-  i18n: cpython
-  url: 
-  img: /static/assets/img/landing/lionfish.png
-  desc: Population structure and sympatric evolution of two Atlantic tuna species
-
 - name: Scripts
-  i18n: google
+  i18n: 
   gh_user: pdimens
   repo: genomic-toolbox
   img: /static/assets/img/landing/bash.png
   desc: Custom code for genomics applications
+
+- name: Graphic Design
+  i18n: cpython
+  url: 
+  img: /static/assets/img/landing/terminal_cactus.png
+  desc: A medley of graphics made for science and for fun
