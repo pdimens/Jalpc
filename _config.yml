@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-flask
+    - name: fa-flask
     - name: fa-align-center
   skill_icon2:
     - name: fa-linux
-    - name: icon-terminal
+    - name: fa-terminal
   desc: I study long term migratory fish behavior by comparing their genomes and hypothesizing what forces are driving population subdivision. It's pretty fascinating stuff, but the life histories of migratory marine fishes can really complicate the analytical part of this work, which only makes it that much more interesting (and frustrating)!  # Describe yourself.
 
 # comment
