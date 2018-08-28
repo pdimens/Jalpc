@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Pavel Dimens - Marine Ecologist
+title: Pavel Dimens - Marine Population Genomics
 description: A catch-all of work-related and play-related projects
 keywords: genomics,coding,marine,science,ecology,genetics,pavel,dimens
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -52,7 +52,7 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
