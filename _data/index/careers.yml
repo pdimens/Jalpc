@@ -12,7 +12,7 @@
   job:
     detail: Ph.D. Student
     i18n: company_a_job
-  icon: fa-align-center
+  icon: fa-mortar-board
 
 - name:
     detail: Texas A&M University - Corpus Christi
