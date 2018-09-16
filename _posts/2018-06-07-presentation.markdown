@@ -4,7 +4,7 @@ title:  "Effective Presentation Skills"
 date:   2018-06-07 
 desc: "Understanding presentations to become better at giving them"
 keywords: "science,communication,presentation,skills"
-categories: [Blog]
+categories: [General]
 tags: [skills,communication]
 icon: fa-bullhorn
 ---

@@ -1,13 +1,28 @@
+---
+
+layout: post
+title:  "Makin' stuff look good"
+date:   2018-09-15 
+desc: "Paying attention to detail so your stuff look stellar"
+keywords: "science,communication,presentation,skills,graphics,design"
+categories: [General]
+tags: [skills,communication,graphics,design]
+icon: fa-image
+
+---
+
 # Design Guidelines (for science!)
 
-At  conferences, you either present your work in the form of an oral  presentation (powerpoint + speaking) or as a poster. While I cannot  enforce what I consider[good presentation skills](https://pdimens.wixsite.com/paveldimens/goodpresentations),  I can however try to encourage others to improve the visual elements of  their presentations. I've seen lots of good talks and posters marred by  awful graphics, maps, organization, wordiness, or a slew of other  things that just makes the process of absorbing new material needlessly  agonizing. Hopefully, by reading the material below, you [the reader]  can put additional consideration into the visual elements of your work.  Learning new software and being meticulous about design takes up  precious time, but as a scientist, I feel you have a duty to make your  work approachable and accessible to both scientific and non-scientific  communities.  
+At  conferences, you either present your work in the form of an oral  presentation (powerpoint + speaking) or as a poster. While I cannot  enforce what I consider [good presentation skills](https://pdimens.wixsite.com/paveldimens/goodpresentations),  I can however try to encourage others to improve the visual elements of  their presentations. I've seen lots of good talks and posters marred by  awful graphics, maps, organization, wordiness, or a slew of other  things that just makes the process of absorbing new material needlessly  agonizing. Hopefully, by reading the material below, you [the reader]  can put additional consideration into the visual elements of your work.  Learning new software and being meticulous about design takes up  precious time, but as a scientist, I feel you have a duty to make your  work approachable and accessible to both scientific and non-scientific  communities.  
 
 ## 1 install and learn the basics of image editing software
 
 Want to edit photos to remove their backgrounds? Adobe Photoshop or its open-source counterpart [GIMP](https://www.gimp.org). Want to create sleek and clean graphics as vectors (and export as rasters)? Adobe Illustrator or its open-source counterpart [Inkscape](https://inkscape.org/en/). If you are part of a university, chances are they have an account for 
-Adobe products, so you can use those through the university. Otherwise, both GIMP and Inkscape are plenty feature-rich to handle the stuff you need. I have been an ardent user of Adobe, and recently began making the switch to GIMP and Inkscape and I love it.  Also, and I can't stress this enough: 
+Adobe products, so you can use those through the university. Otherwise, both GIMP and Inkscape are plenty feature-rich to handle the stuff you need. I have been an ardent user of Adobe, and recently began making the switch to GIMP and Inkscape and I love it.  
 
-**the internet is your friend. use google, youtube, and read tutorials like the fantastic site [pixls.us](https://pixls.us) that only uses open-source software**
+![some software options][/static/assets/img/blog/good-visuals/software.png]
+
+Also, and I can't stress this enough: **the internet is your friend. use google, youtube, and read tutorials like the fantastic site [pixls.us](https://pixls.us) that only uses open-source software**
 
 You certainly don't need a Wacom tablet to do this stuff; I only recently purchased the cheapest one (to reduce wrist strain) and half the time I use my laptop's touchpad anyway. The interfaces can be 
 intimidating at first, but I barely use 20% of all the features, so don't panic in thinking you need to know everything to work with this. If it's any consolation, I'm entirely self-taught.  
@@ -20,12 +35,6 @@ intimidating at first, but I barely use 20% of all the features, so don't panic 
 
 Draw inspiration and ideas from the media around you. And I mean from all sorts of places. Many of my posters and presentations have been inspired from fliers for music festivals, concert fliers, infographics, or advertisements. If you want something to look good, looking at other scientific posters probably isn't going 
 to help all that much. Instead, look at stuff professional graphic designers were paid to do. Believe it or not, they are better at this than we are. Here's a real-life example: 
-
-![some software options][fig_id]
-
-[fig_id]: /static/assets/img/blog/good-visuals/software.png "some software options" height=45px width=120px
-
-
 
 ## 3 remove backgrounds - use .PNG or .TIFF format
 
