@@ -119,6 +119,4 @@ Once you're at this point, it's up to you how you want to go about polishing it 
 
 ![almost finished](/static/assets/img/blog/graphics-tutorial/drum9.png)
 
-<img align="center" src="/static/assets/img/blog/graphics-tutorial/drum9.png" alt="almost finished">
-
 There you have it! I cannot stress how readily available and easy to understand online tutorials are for these software. I know I kind of rushed through some of this, but the overview is here. If you don't quite understand how we got to this point, I suggest looking up a tutorial for bezier making, and one for coloring. Those two fundamental skills should take less than 20 minutes to figure out. Good luck!
