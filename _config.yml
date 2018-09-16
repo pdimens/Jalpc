@@ -17,7 +17,7 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: pdimens  # Leave blank if you don't have now
   linkedin_id: # Leave blank if you don't have now
-  facebook_username: # Leave blank if you don't have now
+  facebook_username: pdimens # Leave blank if you don't have now
   twitter_username: pvdimens  # Leave blank if you don't have now
   email: pavel.dimens@usm.edu  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
@@ -32,7 +32,7 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: pdimens
+  name: paveldimens
 
 # analytics
 ## google analytics
