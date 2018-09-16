@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Effective Presentation Skills"
-date:   2018-06-07 00:00:00 +0200
-description: 
+date:   2018-06-07 
+desc: "Understanding presentations to become better at giving them"
+keywords: "science,communication,presentation,skills"
+categories: [General]
+tags: [skills,communication]
+icon: icon-html
 ---
 
 ![presentation cactus](/static/assets/img/blog/presentations/presentation cactus.png)
