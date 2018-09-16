@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
-
 - last_name: Donate
   first_name: Jalpc
-  desc: Support Jalpc
+  desc: Creator of this Jekyll website template
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Marine Genomics
+  first_name: Lab
+  desc: Awesome PopGen
+  website: https://www.marinegenomicslab.tamucc.edu/
+  email: hri.marine.genomics.lab@gmail.com
+
+- last_name: dDocent
+  first_name:Pipeline
+  desc: Home of the best RADseq pipeline
+  website: https://www.ddocent.com
+  email: 
