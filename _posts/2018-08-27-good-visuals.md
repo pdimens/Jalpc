@@ -21,6 +21,10 @@ intimidating at first, but I barely use 20% of all the features, so don't panic 
 Draw inspiration and ideas from the media around you. And I mean from all sorts of places. Many of my posters and presentations have been inspired from fliers for music festivals, concert fliers, infographics, or advertisements. If you want something to look good, looking at other scientific posters probably isn't going 
 to help all that much. Instead, look at stuff professional graphic designers were paid to do. Believe it or not, they are better at this than we are. Here's a real-life example: 
 
+![some software options][fig_id]
+
+[fig_id]: /static/assets/img/blog/good-visuals/software.png "some software options" height=45px width=120px
+
 
 
 ## 3 remove backgrounds - use .PNG or .TIFF format
