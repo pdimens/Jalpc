@@ -11,8 +11,6 @@ icon: fa-image
 
 ---
 
-# Design Guidelines (for science!)
-
 At  conferences, you either present your work in the form of an oral  presentation (powerpoint + speaking) or as a poster. While I cannot  enforce what I consider [good presentation skills](https://pdimens.wixsite.com/paveldimens/goodpresentations),  I can however try to encourage others to improve the visual elements of  their presentations. I've seen lots of good talks and posters marred by  awful graphics, maps, organization, wordiness, or a slew of other  things that just makes the process of absorbing new material needlessly  agonizing. Hopefully, by reading the material below, you [the reader]  can put additional consideration into the visual elements of your work.  Learning new software and being meticulous about design takes up  precious time, but as a scientist, I feel you have a duty to make your  work approachable and accessible to both scientific and non-scientific  communities.  
 
 ## 1 install and learn the basics of image editing software
@@ -20,7 +18,7 @@ At  conferences, you either present your work in the form of an oral  presentati
 Want to edit photos to remove their backgrounds? Adobe Photoshop or its open-source counterpart [GIMP](https://www.gimp.org). Want to create sleek and clean graphics as vectors (and export as rasters)? Adobe Illustrator or its open-source counterpart [Inkscape](https://inkscape.org/en/). If you are part of a university, chances are they have an account for 
 Adobe products, so you can use those through the university. Otherwise, both GIMP and Inkscape are plenty feature-rich to handle the stuff you need. I have been an ardent user of Adobe, and recently began making the switch to GIMP and Inkscape and I love it.  
 
-![some software options][/static/assets/img/blog/good-visuals/software.png]
+![some software options](/static/assets/img/blog/good-visuals/software.png)
 
 Also, and I can't stress this enough: **the internet is your friend. use google, youtube, and read tutorials like the fantastic site [pixls.us](https://pixls.us) that only uses open-source software**
 
@@ -36,12 +34,14 @@ intimidating at first, but I barely use 20% of all the features, so don't panic 
 Draw inspiration and ideas from the media around you. And I mean from all sorts of places. Many of my posters and presentations have been inspired from fliers for music festivals, concert fliers, infographics, or advertisements. If you want something to look good, looking at other scientific posters probably isn't going 
 to help all that much. Instead, look at stuff professional graphic designers were paid to do. Believe it or not, they are better at this than we are. Here's a real-life example: 
 
+![drawing inspiration](/static/assets/img/blog/good-visuals/vis1.png)
+
 ## 3 remove backgrounds - use .PNG or .TIFF format
 
 Everyone knows what a .JPG/.JPEG is, but you shouldn't really use one in a presentation. JPEGs don't allow for transparency, which means your image will always be rectangular, and always have a background. Sure, 
 some photos are a real pain to remove backgrounds from, but the results are almost always worth it. If you need super hi-res stuff, I would prefer .PNG over .TIFF because TIFF filesizes are gigantic at the same  resolutions as .PNG. I'm talking 300**kb** (PNG) versus 600**mb** (TIFF).That's nuts. A clever trick would be to use a background for your presentations that matches the background of your photos (assuming solid color). I don't prefer this, but it's doable. Either way, this leads us to the next point:
 
-
+![no more borders!](/static/assets/img/blog/good-visuals/noborder.png)
 
 ## 4 photos aren't as necessary as you might think
 
