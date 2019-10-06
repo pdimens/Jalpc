@@ -13,6 +13,7 @@
     detail: Ph.D. Student
     i18n: company_a_job
   icon: fa-mortar-board
+  present: true
 
 - name:
     detail: Texas A&M University - Corpus Christi
