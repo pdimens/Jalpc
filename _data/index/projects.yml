@@ -1,11 +1,11 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Population Genetics
+- name: PopGen.jl
   i18n: 
-  url: 
-  img: /static/assets/img/landing/dna.png
-  desc: Population structure of a highly migratory coastal shark
+  url: https://github.com/pdimens/PopGen.jl
+  img: /static/assets/img/landing/PopGen_icon.png
+  desc: Population genetics package for the Julia langauge
 
 - name: Scripts
   i18n: 
