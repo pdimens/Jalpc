@@ -11,8 +11,8 @@
   website: https://www.marinegenomicslab.tamucc.edu/
   email: hri.marine.genomics.lab@gmail.com
 
-- last_name: dDocent
-  first_name: Pipeline
-  desc: Home of the best RADseq pipeline
-  website: https://www.ddocent.com
+- last_name: PopGen.jl
+  first_name: Julia Package
+  desc: An up-and-coming robust popgen package for Juli
+  website: https://github.com/pdimens/PopGen.jl
   email: 
