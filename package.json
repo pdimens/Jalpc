@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jarrekk/Jalpc#readme",
   "dependencies": {
     "animate.css": "^4.1.1",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^5.0.2",
     "chart.js": "^3.4.0",
     "colors": "^1.1.2",
     "components-font-awesome": "^5.9.0",
